@@ -1,0 +1,8 @@
+# ignored files
+*.txt
+*.zz
+*.yy
+mp3_20161603
+mp3_20161603.o
+~$*.docx
+~$*.xlsx

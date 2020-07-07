@@ -1,0 +1,14 @@
+: 1570083019:0;./make_input 1.txt 10 10 0 100 S33D
+: 1570083032:0;./make_input 1.txt 30 30 0 100 S33D
+: 1570083038:0;./make_input 1.txt 50 50 0 100 S33D
+: 1570083045:0;./make_input 1.txt 70 70 0 100 S33D
+: 1570083056:0;./make_input 1.txt 70 70 -100 -1 S33D
+: 1570083073:0;./make_input 1.txt 100 100 0 100 S33D
+: 1570083080:0;./make_input 1.txt 10 10 0 100
+: 1570083090:0;./make_input 1.txt 10 10 0 100 S33D
+: 1570083098:0;./make_input 2.txt 30 30 0 100 S33D
+: 1570083104:0;./make_input 3.txt 50 50 0 100 S33D
+: 1570083109:0;./make_input 4.txt 70 70 0 100 S33D
+: 1570083120:0;./make_input 4-1.txt 70 70 -100 -1 S33D
+: 1570083133:0;./make_input 3-2.txt 50 50 -100 -1 S33D
+: 1570083143:0;./make_input 5.txt 100 100 0 100 S33D
